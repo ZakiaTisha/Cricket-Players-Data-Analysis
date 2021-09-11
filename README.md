@@ -1,0 +1,2 @@
+# Cricket-Players-Data-Analysis
+2. How many players played for ICC? 3. How many different countries are present in this dataset?  4. Which player(s) had played for the longest period of time? 5. Which player(s) had played for the shortest period of time? 6. How many Australian Bowlers are present in this dataset? 7. Is there any Bangladeshi player present in this dataset? 8. Which player had the lowest economy rate? 9. Which player had the lowest strike rate? 10. Which player had the lowest bowling average?
